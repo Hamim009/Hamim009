@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Farhan Al Hamim</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+<img align="right" alt="data-analyst" width=400 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRueWNqYXZmZTNvbmcybWxuMGZxNnIwc2I2djUzNjYyeWV3Z3FheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamim009" alt="hamim009" /></a> </p>
 
